@@ -18,7 +18,7 @@ python generate_advImg.py --purturbation_level 8 --target_category INDEX_IN_1000
 
 ### Examples
 * The adversarial images that fools multiple DNNs are more likely to show higher-level features of the target category 
-![Example1](https://github.com/chengfanbrain/Generate_adversarial_images_for_DNNs_and_brain/blob/master/examples/Exampe1.jpg)
+![Example1](https://github.com/chengfanbrain/Generate_adversarial_images_for_DNNs_and_brain/blob/master/examples/Example1.jpg)
 
 * The effects of the purturbation level
 ![Example1](https://github.com/chengfanbrain/Generate_adversarial_images_for_DNNs_and_brain/blob/master/examples/Example2.jpg)
